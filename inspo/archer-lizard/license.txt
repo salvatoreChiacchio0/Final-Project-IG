@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Lizard Stylized
+* source:	https://sketchfab.com/3d-models/cute-lizard-stylized-9023e02868a14eaaae460d195f18be38
+* author:	Daniel JIN (https://sketchfab.com/absence_art)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Lizard Stylized" (https://sketchfab.com/3d-models/cute-lizard-stylized-9023e02868a14eaaae460d195f18be38) by Daniel JIN (https://sketchfab.com/absence_art) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gecko Adventures</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="game.css">
+</head>
+<body>
+    <div id="enemy-life">Enemy 1 Life: 50</div>
+    <div id="enemy-life2">Enemy 2 Life: 30</div>
+
+    <div id="light-controls">
+        <label id="light-intensity1" for="light-intensity">Light Intensity:</label>
+        <input type="range" id="light-intensity" min="0" max="2" step="0.1" value="1">
+    </div>
+    <button id="btn-shadows">Enable Shadows</button>
+    <button id="btn-fog">Disable Fog</button>
+
+    <div id="introduction">
+        <div id="char">
+            <div id="name"></div>
+            <div id="story"></div>
+            <div id="btn-row">
+                <button id="btn-start">Start</button>
+            </div>
+
+        </div>
+     </div>
+
+    <div id="commands">
+        <div id="toggle-commands">
+
+
+            <div class="cmd-camera"> 
+                <div class="cmd-box">W</div> 
+                <div class="cmd-text">Move forward</div> 
+            </div>
+            <div class="cmd-camera"> 
+                <div class="cmd-box">A</div> 
+                <div class="cmd-text">Move left</div> 
+            </div>
+            <div class="cmd-camera"> 
+                <div class="cmd-box">S</div> 
+                <div class="cmd-text">Move  backward</div> 
+            </div>
+            <div class="cmd-camera"> 
+                <div class="cmd-box">D</div> 
+                <div class="cmd-text">Move right</div> 
+            </div>
+        </div>
+    </div>
+    <a href="character.html">
+        <button class="absolute  btn-exit" >Exit</button>
+    </a>
+    <script type="module" src="/game.ts"></script>
+
+</body>
+</html>

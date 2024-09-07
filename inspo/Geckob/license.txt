@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lizardman Warrior
+* source:	https://sketchfab.com/3d-models/lizardman-warrior-a43341d793fd4622a9042084f1f35b18
+* author:	willhemtier (https://sketchfab.com/willhemtier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lizardman Warrior" (https://sketchfab.com/3d-models/lizardman-warrior-a43341d793fd4622a9042084f1f35b18) by willhemtier (https://sketchfab.com/willhemtier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

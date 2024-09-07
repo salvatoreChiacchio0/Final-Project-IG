@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=UnifrakturMaguntia&display=swap');
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Delicious Handrawn", cursive;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 5px;
+
+}
+
+.absolute{
+    display: block;
+    position: absolute;   
+}
+
+.btn{
+    right: 370px;
+    top: 300px;
+    background: none;
+    border: none;
+    border-radius: 1em;
+    text-align: center;
+    font-size: 150%;
+    padding: 20px 50px;
+    color: white;
+    border: solid 1px gray;
+}
+.btn:hover {
+    cursor: pointer;
+    background: rgba(158, 133, 11, 0.5);
+}
+
+.title-txt{
+    font-size: 70px;
+    color: white;
+}
+.right-position{
+    right: 200px;
+    top: 150px;
+}
+.center-pos{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+

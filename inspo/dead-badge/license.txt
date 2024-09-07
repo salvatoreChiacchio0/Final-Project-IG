@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skull Symbol
+* source:	https://sketchfab.com/3d-models/skull-symbol-d1c5b41da59e41228cefe57c2d082ebc
+* author:	bariacg (https://sketchfab.com/bariacg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skull Symbol" (https://sketchfab.com/3d-models/skull-symbol-d1c5b41da59e41228cefe57c2d082ebc) by bariacg (https://sketchfab.com/bariacg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

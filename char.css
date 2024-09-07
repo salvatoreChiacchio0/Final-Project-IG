@@ -1,0 +1,74 @@
+.character-info{
+    color: white;
+    right: 210px;
+    top: 200px;
+}
+
+
+.home-btn{
+    cursor: pointer;
+    position: absolute;
+    background-color:transparent ;
+    color: white !important;
+    left: 40px;
+    top: 70px;
+    z-index: 10000;
+}
+.navigation{
+    right: 275px;
+    top: 450px; 
+}
+
+#character-stats, #character-type{
+    white-space: pre;
+    font-size: 25px;
+
+}
+#character-type{
+    color: yellow;
+}
+
+#character-name{
+    font-size: 40px;
+}
+
+.btn-game{
+    right: 285px;
+    top: 500px; 
+}
+
+#prev-character , #next-character, .btn-animation{
+    padding: 5px 13px;
+    font-size: 15px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius:10px;
+    color: white;
+    cursor: pointer;
+    transition: 1s ease-in-out infinite;
+}
+#prev-character:hover , #next-character:hover{
+    background: rgba(158, 133, 11, 0.5);
+
+}
+
+#buttonContainer { 
+    position: absolute;
+    bottom: 200px;
+    left: 40%; 
+    z-index: 100; 
+}
+.btn-animation{
+    margin-right: 2rem;
+}
+
+.btn-animation:hover{
+    background: rgba(158, 133, 11, 0.5);
+}
+
+.display-none{
+    display: none !important;
+}
+.display-block{
+    display: block !important;
+}

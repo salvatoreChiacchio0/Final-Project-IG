@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@dimforge/rapier3d": "^0.14.0",
+    "ammo.js": "github:kripken/ammo.js",
+    "cannon": "^0.6.2",
+    "cannon-es": "^0.20.0",
+    "enable3d": "^0.25.4",
+    "three": "^0.167.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.5",
+    "vite-plugin-wasm": "^3.3.0"
+  }
+}

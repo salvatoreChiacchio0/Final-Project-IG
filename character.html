@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Gecko Adventures</title>
+    <style>
+        body { margin: 0; }
+        .center-pos { text-align: center; }
+    </style>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="char.css">
+</head>
+<body>
+    <a href="main.html" class="home-btn">
+        <div class="absolute text" onclick="">Home</div>
+    </a>    
+	<span class=" absolute title-txt center-pos">CHOOSE YOUR FIGHTER</span>
+    <div class="absolute character-info">
+        <span id="character-name"></span> <br>
+        <p id="character-type"></p> <br>
+        <p id="character-stats"></p> <br>
+    </div>
+    <div class="absolute navigation ">
+        <button id="prev-character">Previous</button>
+        <button id="next-character">Next</button>
+    </div>
+	<a href="game.html">
+        <button class="absolute btn btn-game" onclick="gamePage()">Fight</button>
+    </a>
+	<div id="buttonContainer"></div>
+    <script type="module" src="/char.js"></script>
+</body>
+</html>
